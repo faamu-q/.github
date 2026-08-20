@@ -1,0 +1,38 @@
+name: Model evaluation
+description: Propose, reproduce or review an evaluation of FAAMU Q
+title: "[Eval] "
+labels: ["evaluation"]
+body:
+  - type: input
+    id: revision
+    attributes:
+      label: Model / revision
+      placeholder: faamu-q/FAAMU-Q @ revision
+    validations:
+      required: true
+  - type: input
+    id: benchmark
+    attributes:
+      label: Benchmark or task
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Evaluation setup
+      description: Prompting, decoding, seeds, sample count, hardware and dependencies.
+    validations:
+      required: true
+  - type: textarea
+    id: metrics
+    attributes:
+      label: Metrics and results
+      description: Include exact measured values and definitions.
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Limitations / contamination checks
+    validations:
+      required: true

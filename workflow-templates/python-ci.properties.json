@@ -1,0 +1,12 @@
+{
+  "name": "FAAMU Python CI",
+  "description": "Lint and test a FAAMU Python repository on Python 3.11 and 3.12.",
+  "iconName": "octicon beaker",
+  "categories": [
+    "Python",
+    "continuous-integration"
+  ],
+  "filePatterns": [
+    "pyproject.toml$"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "FAAMU Model Evaluation",
+  "description": "Run repository evaluation tests for model and quantitative changes.",
+  "iconName": "octicon graph",
+  "categories": [
+    "Python",
+    "continuous-integration"
+  ]
+}

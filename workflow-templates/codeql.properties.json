@@ -1,0 +1,9 @@
+{
+  "name": "FAAMU CodeQL",
+  "description": "Code scanning baseline for FAAMU Python repositories.",
+  "iconName": "octicon shield",
+  "categories": [
+    "Security",
+    "Python"
+  ]
+}
