@@ -34,7 +34,7 @@ Initial language support is planned for **English, French and Spanish**.
 
 ### Links
 
-- Hugging Face: https://huggingface.co/faamu-q
+- Hugging Face: https://huggingface.co/faamu-26
 - GitHub: https://github.com/faamu-q
 
 ---
