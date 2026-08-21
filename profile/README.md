@@ -2,7 +2,7 @@
   <img src="./assets/faamu-logo.png" alt="FAAMU" width="150">
 </p>
 
-<h1 align="center">FAAMU</h1>
+<h1 align="center">FaaMU</h1>
 
 <p align="center"><strong>Quantitative intelligence, built for reasoning.</strong></p>
 
